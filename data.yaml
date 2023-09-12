@@ -1,0 +1,13 @@
+train: /home/avinash/Projects/yolov8/windows_seg/w.v1i.yolov8/train
+val: /home/avinash/Projects/yolov8/windows_seg/w.v1i.yolov8/valid
+test: /home/avinash/Projects/yolov8/windows_seg/w.v1i.yolov8/test
+
+nc: 1
+names: ['window']
+
+roboflow:
+  workspace: avinash-bairagi-ogxog
+  project: w-ugw5n
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/avinash-bairagi-ogxog/w-ugw5n/dataset/1
